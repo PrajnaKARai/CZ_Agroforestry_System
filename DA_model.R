@@ -6,7 +6,7 @@ library(decisionSupport)
 library(ggplot2)
 library(dplyr)
 
-# initial file only <- file should be edited as required by the dynamic_helper.R after
+# initial file only <- file (in .xlsx) should be edited as required by the dynamic_helper.R after
 #  formatting the variables using input_rewrite.R
 input_file <- read.csv("Input_table.csv")
 
